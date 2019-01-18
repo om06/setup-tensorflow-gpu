@@ -83,6 +83,8 @@ sudo dpkg -i cuda-repo-ubuntu1604-9-0-local-cublas-performance-update-2_1.0-1_am
 
 # ============================================ we have to install CudNN package here =====================================
 
+clear
+
 echo "Go to this link := https://developer.nvidia.com/rdp/cudnn-archive"
 
 echo "Click on Download cuDNN v7.1.4 (May 16, 2018), for CUDA 9.0"
