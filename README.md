@@ -34,7 +34,6 @@ Run the following commands on the system
 
 >>> bash ~/setup-tensorflow-gpu/setup.sh
 
-
 When asked for the CudNN path go to the following link, perform the following step to get the download link
 
 Step 1 : Go to this link := https://developer.nvidia.com/rdp/cudnn-archive
