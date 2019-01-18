@@ -88,6 +88,7 @@ echo "Go to this link := https://developer.nvidia.com/rdp/cudnn-archive"
 echo "Click on Download cuDNN v7.1.4 (May 16, 2018), for CUDA 9.0"
 
 echo "Than Copy Download link of cuDNN v7.1.4 Library for Linux"
+# ========================================================================================================================
 
 read -p "Enter the download link for CudNN 7.1.4 here: " path
 
